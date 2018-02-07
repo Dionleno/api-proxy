@@ -1,0 +1,23 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "site de noticias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dionleno vidaletti",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "crypto": "^1.0.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "express-validator": "^4.3.0",
+    "http": "0.0.0",
+    "http-proxy": "^1.16.2",
+    "http-proxy-middleware": "^0.17.4"
+  }
+}
